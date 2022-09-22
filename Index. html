@@ -1,0 +1,49 @@
+<!Doctype html>
+
+<html>
+
+				<head>								<meta charset="UTF-8">
+
+								<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0">
+
+								<style>
+
+												body {background-color:rgba(0,7,99,0.4)}
+
+												h1 {color:white;font-family:cursive; font-size:3em}
+
+												input {font-size:2em; padding:20px;outline:none}
+
+												input[type="submit"] {position: absolute;left:100px; padding:30px; border-radius:20px;width:50vw; background-color:rgba(0,0,250,1.0);color:white;border:none}
+
+												input:focus {border-bottom:2px solid red;}
+
+												input[type="button"]:active {background-color:rgba(0,0,250,0.3)}
+
+												</style>
+
+								<body>
+
+												<h1>Registration for Grade 12 Mathematics</h1>
+
+												<form action="https://www.eduet.com" method="POST">
+
+																<input type="text" name="username" placeholder="Full Name" required autofocus><br><br>
+
+																<input type="text" name="country" placeholder="country" required><br><br>
+
+																<input type="tel" name="usertel" placeholder="Phone no" required><br><br>
+
+																<input type="Email" name="usee email" placeholder="Email(optional)"><br><br>
+
+																<input type="password" name="password" placeholder="Password" required><br><br>
+
+																<input type="button" value="Sign up" id="a" onclick="acc(String(document.getElementById(')">
+
+																</form>
+
+																<script>
+
+																    function acc()
+
+																</body>
